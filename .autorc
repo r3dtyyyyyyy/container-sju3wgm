@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "r3dtyyyyyyy",
+  "repo": "container-sju3wgm",
+  "name": "r3dtyyyyyyy",
+  "email": "serverbackupacc1@gmail.com",
+}
